@@ -1,4 +1,4 @@
-#Tele2 test assignment
+# Tele2 test assignment
 
 Create a simple command line app that calls a remote API and displays results on STDOUT.  
 #### The app should:  
